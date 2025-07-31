@@ -2,7 +2,7 @@
 
 ---
 
-Este projeto consistui em otimizar o desafio anterior de sistema bancário, nesse desafio foi adicionadas funções no código alem de novas opções no menu 
+Este projeto consisti em otimizar o desafio anterior de sistema bancário, nesse desafio foi adicionadas funções no código além de novas opções no menu
 
 ---
 
